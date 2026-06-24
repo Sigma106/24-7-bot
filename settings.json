@@ -8,7 +8,7 @@
   "server": {
     "ip": "menu_python.aternos.me:45200",
     "port": 45200,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
